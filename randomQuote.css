@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #FC766AFF;
+}
+
+.main{
+    margin: auto;
+    margin-top: 10%;
+    width: 70%;
+    height: 400px;
+    background-color: #783937FF;
+    text-align: center;
+}
+
+.main > h1{
+    padding: 20px;
+    color: #F1AC88FF;
+    font-size: 3em;
+}
+
+.text{
+    padding: 10px;
+    font-size: 2em;
+}
+
+.main > button{
+    margin-top: 10%;
+    padding: 1% 3%;
+    background-color: transparent;
+    border: 3px solid #F1AC88FF;
+    font-size: 1.5em;
+    cursor: pointer;
+}
